@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WaterWorks Thailand]]></title>
+        <description><![CDATA[WaterWorks Thailand]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 May 2016 03:32:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>WaterWorks Thailand is a business dedicated to providing " Quality Water Saving Solution's that Work " to the global population.</p>]]></description>
+            <link>undefinedwaterworks-thailand-is-a-business-dedicated-to-providing-q/index.html</link>
+            <guid isPermaLink="false">1013ce4c-5b7c-4d7e-ab32-b6d457bd403c</guid>
+            <pubDate>Mon, 30 May 2016 03:31:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
